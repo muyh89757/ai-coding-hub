@@ -1,0 +1,23 @@
+# AI Coding Hub - 后端依赖
+
+# Web 框架
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# 数据库
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+
+# 认证
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# HTTP 请求
+httpx==0.26.0
+
+# AI 平台 SDK
+zhipuai==2.0.1
+
+# 工具
+pydantic==2.5.3
+pytest==7.4.4
