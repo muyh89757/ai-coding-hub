@@ -1,0 +1,10 @@
+# AI Coding Hub - Python 依赖
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+zhipuai==2.0.1
+stripe==7.10.0
+pydantic==2.5.3
+pytest==7.4.4
